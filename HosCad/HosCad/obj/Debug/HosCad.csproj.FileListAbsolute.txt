@@ -1,0 +1,17 @@
+C:\Users\Ilmar\Documents\SO II-AV3\HosCad\HosCad\bin\Debug\HosCad.exe.config
+C:\Users\Ilmar\Documents\SO II-AV3\HosCad\HosCad\bin\Debug\HosCad.exe
+C:\Users\Ilmar\Documents\SO II-AV3\HosCad\HosCad\bin\Debug\HosCad.pdb
+C:\Users\Ilmar\Documents\SO II-AV3\HosCad\HosCad\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ilmar\Documents\SO II-AV3\HosCad\HosCad\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ilmar\Documents\SO II-AV3\HosCad\HosCad\obj\Debug\HosCad.csproj.AssemblyReference.cache
+C:\Users\Ilmar\Documents\SO II-AV3\HosCad\HosCad\obj\Debug\HosCad.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ilmar\Documents\SO II-AV3\HosCad\HosCad\obj\Debug\HosCad.Form1.resources
+C:\Users\Ilmar\Documents\SO II-AV3\HosCad\HosCad\obj\Debug\HosCad.Properties.Resources.resources
+C:\Users\Ilmar\Documents\SO II-AV3\HosCad\HosCad\obj\Debug\HosCad.csproj.GenerateResource.cache
+C:\Users\Ilmar\Documents\SO II-AV3\HosCad\HosCad\obj\Debug\HosCad.csproj.CoreCompileInputs.cache
+C:\Users\Ilmar\Documents\SO II-AV3\HosCad\HosCad\obj\Debug\HosCad.csproj.CopyComplete
+C:\Users\Ilmar\Documents\SO II-AV3\HosCad\HosCad\obj\Debug\HosCad.exe
+C:\Users\Ilmar\Documents\SO II-AV3\HosCad\HosCad\obj\Debug\HosCad.pdb
+C:\Users\Ilmar\Documents\SO II-AV3\HosCad\HosCad\obj\Debug\HosCad.AtualizarPage.resources
+C:\Users\Ilmar\Documents\SO II-AV3\HosCad\HosCad\obj\Debug\HosCad.ExcluirPage.resources
+C:\Users\Ilmar\Documents\SO II-AV3\HosCad\HosCad\obj\Debug\HosCad.AtualizarPreviewPage.resources
